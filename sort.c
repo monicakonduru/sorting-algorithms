@@ -75,9 +75,5 @@ int main() {
     printf("\nInsertion Sort: ");
     printArray(arr, size);
 
-   
-
-    
-
     return 0;
 }
